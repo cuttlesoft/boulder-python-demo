@@ -1,0 +1,13 @@
+language: python
+python:
+- '2.7'
+sudo: false
+cache:
+- apt
+- pip
+install:
+- pip install -r requirements.txt
+- pip install coverage coveralls
+script: py.test --cov mod --cov-report term-missing --pep8 --flakes
+after_success:
+- coveralls
