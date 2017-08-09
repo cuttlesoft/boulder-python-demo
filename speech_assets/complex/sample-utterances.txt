@@ -1,0 +1,11 @@
+MyFourteenerIsIntent  my fourteener is {Fourteener}
+MyFourteenerIsIntent  my favorite fourteener is {Fourteener}
+WhatsMyFourteenerIntent whats my fourteener
+WhatsMyFourteenerIntent what is my fourteener
+WhatsMyFourteenerIntent say my fourteener
+WhatsMyFourteenerIntent tell me my fourteener
+WhatsMyFourteenerIntent whats my favorite fourteener
+WhatsMyFourteenerIntent what is my favorite fourteener
+WhatsMyFourteenerIntent say my favorite fourteener
+WhatsMyFourteenerIntent tell me my favorite fourteener
+WhatsMyFourteenerIntent tell me what my favorite fourteener is

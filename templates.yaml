@@ -1,0 +1,21 @@
+welcome: |
+    Colorado has 53 mountains over 14 thousand feet.
+    Tell me your favorite one by saying, my favorite fourteener is
+
+welcome_reprompt: Please tell me your favorite fourteener by saying, my favorite fourteener is
+
+known_fourteener: |
+    I now know that your favorite fourteener is {{ fourteener }}.
+    You can ask me your favorite fourteener by saying, what's my favorite fourteener?
+
+known_fourteener_reprompt: You can ask me your favorite fourteener by saying, what's my favorite fourteener?
+
+known_fourteener_bye: Your favorite fourteener is {{ fourteener }}. Happy climbing!
+
+unknown_fourteener: I'm not sure what your favorite fourteener is, please try again
+
+unknown_fourteener_reprompt: |
+    I'm not sure what your favorite fourteener is.
+    You can tell me your favorite fourteener by saying, my favorite fourteener is
+
+card_title: Your Favorite Fourteener
