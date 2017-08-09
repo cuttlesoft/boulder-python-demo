@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Fourteener",
+          "type": "LIST_OF_FOURTEENERS"
+        }
+      ],
+      "intent": "MyFourteenerIsIntent"
+    },
+    {
+      "intent": "WhatsMyFourteenerIntent"
+    }
+  ]
+}
